@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, section, article, footer {
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.art1 {
+    background-color: lightcoral;
+}
+
+.art2 {
+    background-image: url('https://picsum.photos/600/200');
+    background-size: cover;
+    color: white;
+}
+
+.links {
+    background-color: lightgreen;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+}
